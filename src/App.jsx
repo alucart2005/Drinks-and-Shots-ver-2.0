@@ -32,7 +32,7 @@ function App() {
         <div className="screen">
         <form onSubmit={(e) => changeDrink(e)}>
             <input type="text"
-            placeholder='Welcome. Please enter your favorite drink.'
+            placeholder='Please enter your favorite drink.'
             />
             <button type="submit">Search</button>
           </form>
@@ -40,7 +40,8 @@ function App() {
         <div className="screen">
           <div className="card">
             <h2>Sorry, at this moment</h2>
-            <img src="./public/not-exist.jpg" alt="" />
+            {/* <img src="./public/not-exist.jpg" alt="" /> */}
+            <img src="https://cdn.memegenerator.es/imagenes/memes/full/32/22/32227224.jpg" alt="" />
             <h2>we don´t have this drink</h2>
           </div>
         </div>
