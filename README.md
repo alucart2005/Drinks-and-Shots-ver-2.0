@@ -19,7 +19,7 @@ https://www.thecocktaildb.com/api/json/v1/1/search.php?s=drinkname.
 
 - [https://card-react-napoleon.netlify.app/](https://card-react-napoleon.netlify.app/)
  
-![..](https://github.com/alucart2005/cardreact/blob/main/src/images/card.png)
+![..](https://raw.githubusercontent.com/alucart2005/Drinks-and-Shots-ver-2.0/Drinks-and-Shots-ver-2.0/src/assets/error-netlyfi.png)
 
 
 ## To install
