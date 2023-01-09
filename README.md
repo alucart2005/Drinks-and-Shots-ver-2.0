@@ -1,8 +1,9 @@
 # Drinks-and-Shots-ver-2.0
-Drinks-and-Shots-ver-2.0
 ## Description
 
-This is a react application that shows a card with content and changing colors when pressing a button.
+This project consists of using this API to display a list of drinks and then filtering by name.
+The endpoint used is this:
+https://www.thecocktaildb.com/api/json/v1/1/search.php?s=drinkname.
 
 ## Author ✍
 
@@ -12,13 +13,13 @@ This is a react application that shows a card with content and changing colors w
 
 -	[https://card-react-napoleon.netlify.app/](https://card-react-napoleon.netlify.app/)
 
--	[https://github.com/alucart2005/cardreact](https://github.com/alucart2005/cardreact)
+-	[https://github.com/alucart2005/Drinks-and-Shots-ver-2.0](https://github.com/alucart2005/Drinks-and-Shots-ver-2.0)
 
 ## See live example
 
 - [https://card-react-napoleon.netlify.app/](https://card-react-napoleon.netlify.app/)
  
-![..](https://github.com/alucart2005/cardreact/blob/main/src/images/card.png)
+![..]([https://github.com/alucart2005/cardreact/blob/main/src/images/card.png](https://github.com/alucart2005/Drinks-and-Shots-ver-2.0/blob/Drinks-and-Shots-ver-2.0/src/assets/error-netlyfi.png))
 
 
 
