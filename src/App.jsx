@@ -40,7 +40,7 @@ function App() {
         <div className="screen">
           <div className="card">
             <h2>Sorry, at this moment</h2>
-            <img src="./src/assets/not-exist.jpg" alt="" />
+            <img src="./public/not-exist.jpg" alt="" />
             <h2>we don´t have this drink</h2>
           </div>
         </div>
