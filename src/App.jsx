@@ -40,8 +40,8 @@ function App() {
         <div className="screen">
           <div className="card">
             <h2>Sorry, at this moment</h2>
-            <img src="./src/assets/error-netlyfi.png" alt="./src/assets/error-netlyfi.png" />
-            <h2>we don´t have this drink</h2>
+            <img src="./src/not-exist.jpg" alt="" />
+            <h2>we.. don´t have this drink</h2>
           </div>
         </div>
       </div>
