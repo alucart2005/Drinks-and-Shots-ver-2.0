@@ -1,8 +1,8 @@
 
+import './App.css'
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import Drinks from './components/Drinks';
-import './App.css'
 
 function App() {
   const [dataDrink, setDataDrink] = useState([]);
@@ -31,8 +31,10 @@ function App() {
       <div className="App">
         <div className="screen">
         <form onSubmit={(e) => changeDrink(e)}>
-            <input type="text" />
-            <button type="submit">Buscar</button>
+            <input type="text"
+            placeholder='Welcome. Please enter your favorite drink.'
+            />
+            <button type="submit">Search</button>
           </form>
         </div>
         <div className="screen">
@@ -63,8 +65,13 @@ function App() {
     <div className="App">
       <div className="screen">
         <form onSubmit={(e) => changeDrink(e)}>
-          <input type="text" />
-          <button type="submit">Buscar</button>
+          <input 
+          type="text" 
+          placeholder='WELCOME!!! Please enter your favorite drink.'
+          />
+          <button 
+          type="submit"
+          >Search</button>
         </form>
       </div>
       <div className="screen">

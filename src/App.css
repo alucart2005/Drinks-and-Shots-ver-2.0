@@ -49,6 +49,7 @@ form > * {
 }
 
 input[type="text"] {
+  width: 300px;
   padding: 10px;
   border-radius: 5px;
   border: 1px solid #ccc;
@@ -64,7 +65,7 @@ button[type="submit"] {
 }
 
 form {
-  max-width: 300px;
+  max-width: 500px;
   margin: 0 auto;
   text-align: center;
 }
